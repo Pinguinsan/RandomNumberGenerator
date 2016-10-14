@@ -1,2 +1,2 @@
 # RandomNumberGenerator
-A simple Android application to generate random numbers
+This is a ranom number generator for Android
